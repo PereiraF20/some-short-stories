@@ -1,3 +1,3 @@
 # some-short-stories
 
-Fork this repository and add your short stories via a pull request!
+Hey guys, great time with you all in the lab today learning about Git and GitHub!
